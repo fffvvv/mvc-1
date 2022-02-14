@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background: #f1f1f3;
+    display: none;
+}
+
+body > .page {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body > .page > section {
+    width: 50vw;
+    height: 50vh;
+}
